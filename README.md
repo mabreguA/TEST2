@@ -17,5 +17,3 @@ Otra forma es si ya tiene una carpeta que repositorio que usa para su proyectos 
 8° Start E2E Testing in crhome
 9° seleccionamos 1-getting-started el archivo de login
 10° dejamos que se ejecute 
-
-
